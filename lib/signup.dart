@@ -59,26 +59,6 @@ class SignUp extends StatelessWidget {
                 ),
               ),
             ),
-            Container(
-              width: 320,
-              child: TextFormField(
-                decoration: const InputDecoration(
-                  border: OutlineInputBorder(),
-                  labelText: "Name",
-                  suffixIcon: Icon(Icons.person),
-                ),
-              ),
-            ),
-            Container(
-              width: 320,
-              child: TextFormField(
-                decoration: const InputDecoration(
-                  border: OutlineInputBorder(),
-                  labelText: "Name",
-                  suffixIcon: Icon(Icons.person),
-                ),
-              ),
-            ),
           ],
         ),
       ),
